@@ -2,9 +2,7 @@
 
 The **Dictionary App** is a user-friendly web application developed using **React.js**. It allows users to search for word definitions, synonyms, antonyms, and example sentences, helping to improve language skills and expand vocabulary.
 
-![Snapshot of Bawani's Dictionary App](https://github.com/bawanisandunika/Dictionary-React-App/assets/56132945/6e13bff1-f7ac-47f2-b505-0cd7e9d67cd2)
 
-## Table of Contents
 - [Features](#features)
 - [Technologies & Tools Used](#technologies--tools-used)
 - [Installation and Usage](#installation-and-usage)
